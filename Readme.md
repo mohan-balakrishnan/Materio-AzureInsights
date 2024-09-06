@@ -65,7 +65,6 @@ Installing and running the template is simple. Follow these steps, and you'll be
 4. Once the dependencies are installed and the key is updated, start the development server with the following command (from the project root path).
 
    ```bash
-    # For npm
    npm run dev
    ```
 
