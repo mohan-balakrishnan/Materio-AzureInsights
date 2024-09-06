@@ -69,3 +69,5 @@ Installing and running the template is simple. Follow these steps, and you'll be
    ```
 
 5. Open http://localhost:3000 (or) http://PUblicIP:3000 in your browser to see your app in action 
+
+6. Go Azure portal -> In the Azure portal, search for "Application Insights" in the top search bar.
