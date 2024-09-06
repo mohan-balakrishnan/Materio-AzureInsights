@@ -20,6 +20,10 @@
 1. Once the resource is created, go to your Application Insights resource page.
 2. **Grab the Instrumentation Key** or **Connection String** from the **Overview** tab. You'll need this for integration.
 
+    ```bash
+    sample Instrumentation Key : InstrumentationKey=497r983rerf-rgr;IngestionEndpoint=https://centralindia-0.in.applicationinsights.azure.com/;LiveEndpoint=https://centralindia.livediagnostics.monitor.azure.com/;ApplicationId=trhyth-fret-f-fddf-fd'
+    ```
+
 ## Step 4: Monitor Application Performance
 1. After setup, your application will start sending telemetry data to Application Insights.
 2. **View telemetry** like requests, failures, and performance from the **Monitoring** section in the resource.
@@ -30,7 +34,6 @@
 
 
 ---
-
 
 # Steps to Deploy Application
 
