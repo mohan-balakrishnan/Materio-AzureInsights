@@ -32,7 +32,6 @@
 
 *Follow these steps to create and integrate Azure Application Insights into your application for real-time performance monitoring and diagnostic insights.*
 
-
 ---
 
 # Steps to Deploy Application
@@ -45,19 +44,17 @@ Clone the repository to your local or remote machine using the following URL:
 
 repo URL: https://github.com/mohan-balakrishnan/Materio-AzureInsights
 
-
-
 ## Requirements ✅
 
 Make sure you have the  installed Node.js v14.17.3
 
-Go to this link and download abd install Node.js: https://nodejs.org/en/blog/release/v14.17.3
+Go to this link and download and install Node.js: https://nodejs.org/en/blog/release/v14.17.3
 
 ## Installation ⚒️
 
 Installing and running the template is simple. Follow these steps, and you'll be ready to go:
 
-1. Ensure **Node.js (LTS version)** is installed on your machine.
+1. Ensure **Node.js** is installed on your machine.
 2. Navigate to the `javascript-version` folder and run the following command to install the local dependencies listed in the `package.json` file.
 
    ```bash
